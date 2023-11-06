@@ -68,7 +68,7 @@ a>i:hover {
 .banner {
     margin-top: -10rem;
     height: 130vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4)), url(/img/pexels-kristina-paukshtite-704755.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4)), url(../img/pexels-kristina-paukshtite-704755.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }

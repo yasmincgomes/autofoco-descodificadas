@@ -73,7 +73,7 @@ main {
     margin-top: -15rem;
     width: 100%;
     height: 110vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), url(/img/luana/pexels-joshua-mcknight-3290242.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), url(../img/luana/pexels-joshua-mcknight-3290242.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 0 35%;
